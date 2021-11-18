@@ -1,3 +1,5 @@
-if (traveler.alreadyHadTheVirus === true && traveler.recovered === true || traveler.isVaccinated === true) {
+if (traveler.alreadyHadTheVirus && traveler.recovered || traveler.isVaccinated) {
     traveler.isImmune = true;
+} else {
+    traveler.isImmune = false;
 }
