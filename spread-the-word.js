@@ -1,6 +1,6 @@
 let beaconsLit = [];
-beaconsLit.push(easternmost);
-beaconsLit.push(easternBeacons);
-beaconsLit.push(centerBeacon);
-beaconsLit.push(westernBeacons);
-beaconsLit.push(westernmost);
+beaconsLit[beaconsLit.length] = (easternmost);
+beaconsLit[beaconsLit.length] = (easternBeacons);
+beaconsLit[beaconsLit.length] = (centerBeacon);
+beaconsLit[beaconsLit.length] = (westernBeacons);
+beaconsLit[beaconsLit.length] = (westernmost);
