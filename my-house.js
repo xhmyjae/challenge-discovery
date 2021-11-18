@@ -1,2 +1,8 @@
-const acidHouse = mainHouse.clone();
-let deepHouse = mainHouse;
+const acidHouse = mainHouse;
+let deepHouse = {
+    door: 'blue',
+    rooms: {
+        bedrooms: 2,
+        bathrooms: 1,
+    }
+};
