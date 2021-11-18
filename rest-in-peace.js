@@ -1,3 +1,3 @@
 let footSoldiers = [...swordMen, ...archers, "Grim the Terrible"];
-let horseMen = [...captains, ...generals, "The Skull Knight"];
-let armyOfTheDead = [footSoldiers, horseMen, "The King of the Dead"];
+let horseMen = ["The Skull Knight", ...captains, ...generals];
+let armyOfTheDead = [...footSoldiers, ...horseMen, "The King of the Dead"];
