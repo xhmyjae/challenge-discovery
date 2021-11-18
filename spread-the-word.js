@@ -1,0 +1,1 @@
+let beaconsLit = easternmost + easternBeacons + centerBeacon + westernBeacons + westernmost;
