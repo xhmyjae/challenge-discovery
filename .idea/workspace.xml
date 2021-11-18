@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c386a2fe-e06c-4408-b366-1aa48366ab59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notorious.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637224704925</updated>
-      <workItem from="1637224707063" duration="1296000" />
+      <workItem from="1637224707063" duration="2103000" />
     </task>
     <servers />
   </component>
