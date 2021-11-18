@@ -1,1 +1,1 @@
-let myFuture = null;
+let myFuture = undefined;
