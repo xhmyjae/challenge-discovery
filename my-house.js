@@ -1,5 +1,5 @@
-const acidHouse = mainHouse;
-let deepHouse = {
+const deepHouse = mainHouse;
+let acidHouse = {
     door: 'blue',
     rooms: {
         bedrooms: 2,
