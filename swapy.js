@@ -1,1 +1,1 @@
-remplaceMe[2] = "great";
+replaceMe[2] = "great";
