@@ -1,0 +1,1 @@
+let mixedFeelings = [{type: "happiness", value: 5}, {type: "anger", value: 7}, {type: "surprise", value: 8}];
