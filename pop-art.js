@@ -1,2 +1,2 @@
-popArtists.pop(popArtists.shift())
+popArtists.shift()
 popArtists.pop()
