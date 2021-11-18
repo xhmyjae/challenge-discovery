@@ -1,0 +1,2 @@
+let escapeFromDelimiters = "\'\*\"";
+let escapeTheEscape = "\\";
