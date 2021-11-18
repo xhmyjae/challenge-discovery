@@ -1,1 +1,1 @@
-let mixedFeelings = [{type: 'happiness', value: 5}, {type: 'anger', value: 7}, {type: 'surprise', value: 8}];
+let mixedFeelings = [{type: 'happiness', level: 5}, {type: 'anger', level: 7}, {type: 'surprise', level: 8}];
