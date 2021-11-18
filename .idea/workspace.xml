@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="850dc01b-bcf0-42f3-960c-415282f6796f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/a-string-of-number.js" beforeDir="false" afterPath="$PROJECT_DIR$/a-string-of-number.js" afterDir="false" />
+    <list default="true" id="c386a2fe-e06c-4408-b366-1aa48366ab59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/redeclaration-of-love.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="215I7NuYwKAHRweYFQU38RQJuol" />
+  <component name="ProjectId" id="215IpLux4TdJexR7KBbUftAqxLa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,20 +29,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="850dc01b-bcf0-42f3-960c-415282f6796f" name="Changes" comment="" />
-      <created>1637224353418</created>
+      <changelist id="c386a2fe-e06c-4408-b366-1aa48366ab59" name="Changes" comment="" />
+      <created>1637224704925</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637224353418</updated>
-      <workItem from="1637224354716" duration="64000" />
-      <workItem from="1637224481038" duration="87000" />
+      <updated>1637224704925</updated>
+      <workItem from="1637224707063" duration="80000" />
     </task>
     <servers />
   </component>
@@ -51,6 +56,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
