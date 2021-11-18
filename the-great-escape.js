@@ -1,2 +1,2 @@
-let escapeFromDelimiters = "\'\*\"";
+let escapeFromDelimiters = "\'`\"";
 let escapeTheEscape = "\\";
