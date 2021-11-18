@@ -1,4 +1,4 @@
-let acidHouse = mainHouse;
+let acidHouse = Object.assign({}, mainHouse);
 const deepHouse = {
     door: 'blue',
     rooms: {
