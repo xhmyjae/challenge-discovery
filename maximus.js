@@ -1,1 +1,1 @@
-let oldestAge = Math.max(marttin.age, kevin.age, stephanie.age);
+let oldestAge = Math.max(martin.age, kevin.age, stephanie.age);
