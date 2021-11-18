@@ -1,2 +1,2 @@
-let acidHouse = mainHouse;
-const deepHouse = mainHouse;
+const acidHouse = mainHouse;
+let deepHouse = mainHouse;
