@@ -1,1 +1,1 @@
-let mirror = word.split('').reverse().join();
+let mirror = word.split('').reverse().join('');
