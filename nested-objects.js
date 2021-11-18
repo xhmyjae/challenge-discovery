@@ -2,8 +2,10 @@
 let adress = {
     city : "toulon",
     postcode : 83100,
-    street : {
-        name: "blabla",
-        number: 7,
-    }
+    street
+}
+
+let street = {
+    name : "blabla";
+    number : 7,
 }
