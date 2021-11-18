@@ -1,3 +1,3 @@
 alterEgo.self = 'altered';
-alterEgo.fullName =  firstName + " " + lastName;
+alterEgo.fullName =  alterEgo.firstName + " " + alterEgo.lastName;
 alterEgo.points = points + 10;
