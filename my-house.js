@@ -1,2 +1,2 @@
-const acidHouse = mainHouse;
+const acidHouse = mainHouse.clone();
 let deepHouse = mainHouse;
