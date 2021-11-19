@@ -1,7 +1,6 @@
-const powerlevel;
+let tempower = 7000;
 
 if (name === "Goku") {
-    powerlevel = 9000;
-} else {
-    powerlevel = 7000;
+    tempower = 9000;
 }
+const powerlevel = tempower;
