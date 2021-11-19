@@ -1,7 +1,7 @@
-let powerLevel = undefined;
+let powerLevel;
 
 if (name === "Goku") {
     powerLevel = 9000;
 } else {
-    powerLevel = 7000;
+    powerLevel = 600;
 }
