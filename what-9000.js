@@ -1,5 +1,7 @@
+let powerLevel = undefined;
+
 if (name === "Goku") {
-    const powerLevel = 9000;
+    powerLevel = 9000;
 } else {
-    const powerLevel = 7000;
+    powerLevel = 7000;
 }
