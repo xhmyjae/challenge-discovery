@@ -1,4 +1,4 @@
-let powerLevel;
+//let powerLevel;
 
 if (name != "Goku") {
     name.powerLevel = 600;
