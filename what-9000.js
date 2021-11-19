@@ -1,9 +1,5 @@
-let powerlevel;
-
 if (name === "Goku") {
-    powerlevel = 9000;
-    Object.freeze(powerlevel)
+    const powerlevel = 9000;
 } else {
-    powerlevel = 7000;
-    Object.freeze(powerlevel)
+    const powerlevel = 7000;
 }
