@@ -5,5 +5,5 @@ if (athletes[0] === "Pedro") {
 } else if (athletes[2] === "Pedro") {
     console.log("🥉");
 } else {
-    console.log("😞 Pedro is #", athletes.indexOf("Pedro")+1);
+    console.log(`😞 Pedro is #"${athletes.indexOf("Pedro")+1}"`);
 }
