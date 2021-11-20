@@ -4,5 +4,5 @@ function giveBack(arg) {
 }
 
 function give(arg) {
-    return arguments;
+    console.log(arg);
 }
