@@ -1,7 +1,9 @@
 function shaker(quantity, fruit, alcohol) {
+    let res;
     if (alcohol) {
-        console.log(quantity, fruit, "cocktail");
+        res = `${quantity} ${fruit} cocktail`;
     } else {
-        console.log(quantity, fruit, "milkshake");
+        res = `${quantity} ${fruit} milkshake`;
     }
+    return res;
 }
