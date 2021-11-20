@@ -1,3 +1,8 @@
+
 function giveBack(arg) {
-    return arg;
+    return give(arg)
+}
+
+function give(arg) {
+    return arguments;
 }
