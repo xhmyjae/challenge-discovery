@@ -3,7 +3,13 @@ function happy(arg) {
     let lowarg = arg.toLowerCase();
     lowarg.includes("happy") ? res = true : res = false;
     lowarg.includes("?") ? res = true : res = false;
-    lowarg[lowarg.length-1] === "?" ? res = true : res = false;
+    lowarg[lowarg.length-1] === "?" ? res = reTrue() : res = reFalse();
+}
 
-    console.log(res)
+function reTrue() {
+    return true;
+}
+
+function reFalse() {
+    return false;
 }
