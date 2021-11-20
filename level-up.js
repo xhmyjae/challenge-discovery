@@ -1,9 +1,17 @@
 function shaker(quantity, fruit, alcohol) {
     let res;
     if (alcohol) {
-        res = `${quantity} ${fruit} cocktail`;
+        if (quantity > 1) {
+            res = `${quantity} ${fruit} cocktails`;
+        } else {
+            res = `${quantity} ${fruit} cocktail`;
+        }
     } else {
-        res = `${quantity} ${fruit} milkshake`;
+        if (quantity > 1) {
+            res = `${quantity} ${fruit} milkshakes`;
+        } else {
+            res = `${quantity} ${fruit} milkshake`;
+        }
     }
     return res;
 }
