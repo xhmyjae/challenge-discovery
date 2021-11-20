@@ -6,5 +6,5 @@ function happy(arg) {
     } else {
         res = false;
     }
-    return res;
+    console.log(res)
 }
