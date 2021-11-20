@@ -1,0 +1,3 @@
+function exec(arg) {
+    arg();
+}
