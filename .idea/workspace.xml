@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c386a2fe-e06c-4408-b366-1aa48366ab59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class-that.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-that.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-that.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bring-it-to-life.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bring-it-to-life.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bring-it-to-life.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WEB/valolo-main/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WEB/valolo-main/scripts/objectives.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="inlay.hints.JavaScript" />
@@ -53,7 +53,7 @@
       <workItem from="1637411680035" duration="223000" />
       <workItem from="1637417999231" duration="2294000" />
       <workItem from="1637438957902" duration="6106000" />
-      <workItem from="1637509548883" duration="3932000" />
+      <workItem from="1637509548883" duration="5636000" />
     </task>
     <servers />
   </component>
