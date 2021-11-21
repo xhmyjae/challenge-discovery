@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c386a2fe-e06c-4408-b366-1aa48366ab59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nesting-organs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nesting-organs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nesting-organs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nesting-organs.html" beforeDir="false" afterPath="$PROJECT_DIR$/nesting-organs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <workItem from="1637411680035" duration="223000" />
       <workItem from="1637417999231" duration="2294000" />
       <workItem from="1637438957902" duration="6106000" />
-      <workItem from="1637509548883" duration="3142000" />
+      <workItem from="1637509548883" duration="3179000" />
     </task>
     <servers />
   </component>
