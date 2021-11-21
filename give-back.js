@@ -6,3 +6,5 @@ function giveBack(arg) {
 function give(arg) {
     console.log(arg);
 }
+
+let funcname =
