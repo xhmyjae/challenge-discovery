@@ -1,10 +1,4 @@
 
 function giveBack(arg) {
-    return give(arg)
+    arg();
 }
-
-function give(arg) {
-    console.log(arg);
-}
-
-let funcname =
