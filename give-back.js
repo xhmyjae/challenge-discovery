@@ -1,5 +1,5 @@
 function giveBack(arg) {
-    return returnarg(arg);
+    returnarg(arg);
 }
 
 function returnarg(arg) {
