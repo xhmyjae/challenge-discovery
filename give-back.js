@@ -1,4 +1,4 @@
 
 function giveBack(arg) {
-    arg();
+    return arg();
 }
