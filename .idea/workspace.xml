@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c386a2fe-e06c-4408-b366-1aa48366ab59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bring-it-to-life.html" beforeDir="false" afterPath="$PROJECT_DIR$/bring-it-to-life.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action-reaction.css" beforeDir="false" afterPath="$PROJECT_DIR$/action-reaction.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action-reaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/action-reaction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action-reaction.js" beforeDir="false" afterPath="$PROJECT_DIR$/action-reaction.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WEB/valolo-main/scripts/objectives.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WEB/valolo-main/scripts/click.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="inlay.hints.JavaScript" />
@@ -52,7 +54,7 @@
       <workItem from="1637417999231" duration="2294000" />
       <workItem from="1637438957902" duration="6106000" />
       <workItem from="1637509548883" duration="6904000" />
-      <workItem from="1637611596804" duration="2408000" />
+      <workItem from="1637611596804" duration="3286000" />
     </task>
     <servers />
   </component>

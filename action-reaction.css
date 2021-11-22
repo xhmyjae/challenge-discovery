@@ -79,3 +79,11 @@ p {
     padding: 0 5px;
     border-radius: 10px;
 }
+
+button {
+    z-index: 1;
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    padding: 20px;
+}
