@@ -1,4 +1,3 @@
-function happy(arg) {
-    let lowarg = arg.toLowerCase();
-    console.log(Boolean(lowarg.includes("happy") && lowarg.includes("?") && lowarg[lowarg.length - 1] === "?" ? 'true' : 'false'));
-}
+
+
+let happy = arg => arg.toLowerCase().includes("happy") && arg.toLowerCase().includes("?") && arg.toLowerCase()[arg.length - 1] === "?" ? 'true' : 'false';
